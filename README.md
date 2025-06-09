@@ -16,7 +16,7 @@ This project is part of my Data Analyst Internship Task 5. The objective was to 
 
 ## Files
 - Titanic_EDA.ipynb – Code and visualizations
-- Report.pdf – Summary report
+- titaniceda.pdf – Summary report
 - train.csv – Dataset
 
 ## Dataset Source
